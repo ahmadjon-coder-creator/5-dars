@@ -1,0 +1,29 @@
+p{
+    color: blue; /*matnga rang berish*/
+    font-size: 20px; /*matni razmeri*/
+    font-weight: 700;  /*harflar semizligi*/
+    font-family: Arial, Helvetica, sans-serif; /*shirflar*/
+    letter-spacing: 5px; /*harflar orasidagi masofa*/
+    word-spacing: 100px; /*sozlar orasidagi masofa*/
+    text-transform: uppercase; /*hammasini katta harfda yozadi*/
+    text-decoration: underline; /*tagiga chiziq chizadi*/
+    background: greenyellow; /*orqaga rang beradi*/
+    width: 500px; /*eni*/
+    height: 50px; /*boyi*/
+    text-align: center; /*ortaga olib beradi*/
+    line-height: 27px; /*qatorlar orasidagi masofa*/
+    /* border-style: dashed;
+    border-width: 4px;
+    border-color: red; */
+
+    border: 4px solid  red; /*Chegara chizigi*/
+    border-radius: 10px; /*burchaklarini yumaloq qladi*/
+
+}
+p:hover{
+    background: red;
+    color: greenyellow;
+    cursor: pointer;
+}
+
+   
